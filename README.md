@@ -6,8 +6,10 @@
 Just click the link on the right side of this page under about
 
 ### Files
-index.html – main page
+ndex.html – main page
+
 style.css – styling
+
 main.js – logic
 
 
